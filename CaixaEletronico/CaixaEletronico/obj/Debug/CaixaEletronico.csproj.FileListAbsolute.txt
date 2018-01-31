@@ -1,0 +1,9 @@
+c:\users\c1401627\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+c:\users\c1401627\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+c:\users\c1401627\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+c:\users\c1401627\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+c:\users\c1401627\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Form1.resources
+c:\users\c1401627\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Properties.Resources.resources
+c:\users\c1401627\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.GenerateResource.Cache
+c:\users\c1401627\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+c:\users\c1401627\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
