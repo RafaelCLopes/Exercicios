@@ -1,0 +1,9 @@
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\NumeroPrimo\obj\Debug\NumeroPrimo.csprojResolveAssemblyReference.cache
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\NumeroPrimo\obj\Debug\NumeroPrimo.Properties.Resources.resources
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.GenerateResource.Cache
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\NumeroPrimo\bin\Debug\NumeroPrimo.exe.config
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\NumeroPrimo\bin\Debug\NumeroPrimo.exe
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\NumeroPrimo\bin\Debug\NumeroPrimo.pdb
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\NumeroPrimo\obj\Debug\NumeroPrimo.frmNumeroPrimo.resources
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\NumeroPrimo\obj\Debug\NumeroPrimo.exe
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\NumeroPrimo\obj\Debug\NumeroPrimo.pdb

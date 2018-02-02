@@ -1,0 +1,9 @@
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\ParOuImpar\bin\Debug\ParOuImpar.exe.config
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\ParOuImpar\obj\Debug\ParOuImpar.csprojResolveAssemblyReference.cache
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\ParOuImpar\obj\Debug\ParOuImpar.frmParOuImpar.resources
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\ParOuImpar\obj\Debug\ParOuImpar.Properties.Resources.resources
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\ParOuImpar\obj\Debug\ParOuImpar.csproj.GenerateResource.Cache
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\ParOuImpar\bin\Debug\ParOuImpar.exe
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\ParOuImpar\bin\Debug\ParOuImpar.pdb
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\ParOuImpar\obj\Debug\ParOuImpar.exe
+C:\Users\c1401627\Documents\Projetos C#\Exercicios\ParOuImpar\obj\Debug\ParOuImpar.pdb
